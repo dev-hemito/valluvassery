@@ -1,0 +1,11 @@
+<script src="js/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="vendor/switcher/switcher.js"></script>
+<script src="vendor/rangeslider/rangeslider.js"></script>
+<script src="vendor/magnific-popup/magnific-popup.js"></script>
+<script src="vendor/lightgallery/js/lightgallery-all.min.js"></script>
+<script src="vendor/swiper/swiper-bundle.min.js"></script>
+<script src="vendor/aos/aos.js"></script>
+<script src="js/dz.carousel.js"></script>
+<script src="js/dz.ajax.js"></script>
+<script src="js/custom.js"></script>

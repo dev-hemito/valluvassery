@@ -1,0 +1,307 @@
+<section class="content-inner bg-white team-details">
+            <div class="container">
+                <div class="section-head style-1 text-center">
+                    <h2 class="title text-uppercase">Our Team</h2>
+                    <div class="dz-separator style-1 text-primary"></div>
+                </div>
+                <div class="row">
+
+                    <!-- 1. AJU REJI THOMAS -->
+                    <div class="mt-3 col-lg-4 col-sm-6 aos-item" data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">
+                        <div class="icon-bx-wraper style-2 center m-b30">
+                            <div class="icon-content">
+                                <h4 class="title m-b0">AJU REJI THOMAS</h4>
+                                <p>PROJECTS MANAGER</p>
+                                <div class="dz-separator style-2 bg-primary"></div>
+                                <div class="detail">
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-map-marker-alt"></i>
+                                        <p>Thulasi, 1st Floor , Door No 55/2616 , KP Vallon Road Kadavanthra, Ernakulam, kochi - 682020</p>
+                                    </div>
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-mobile"></i>
+                                        <p><a href="tel:+91-9633425294">+91-9633425294</a></p>
+                                    </div>
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-phone"></i>
+                                        <p><a href="tel:0484 - 4619801">0484 - 4619801</a></p>
+                                    </div>
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-envelope"></i>
+                                        <p><a href="mailto:aju@valluvasserybuilders.com">aju@valluvasserybuilders.com</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- 2. PETSON PETER -->
+                    <div class="mt-3 col-lg-4 col-sm-6 aos-item" data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">
+                        <div class="icon-bx-wraper style-2 center m-b30">
+                            <div class="icon-content">
+                                <h4 class="title m-b0">PETSON PETER</h4>
+                                <p>EXICUTION MANAGER</p>
+                                <div class="dz-separator style-2 bg-primary"></div>
+                                <div class="detail">
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-map-marker-alt"></i>
+                                        <p>Thulasi, 1st Floor , Door No 55/2616 , KP Vallon Road Kadavanthra, Ernakulam, kochi - 682020</p>
+                                    </div>
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-mobile"></i>
+                                        <p><a href="tel:8089655617">8089655617</a></p>
+                                    </div>
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-phone"></i>
+                                        <p><a href="tel:0484 - 4619801">0484 - 4619801</a></p>
+                                    </div>
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-envelope"></i>
+                                        <p><a href="mailto:petson@valluvasserybuilders.com">petson@valluvasserybuilders.com</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- 3. RATHEESH P.G -->
+                    <div class="mt-3 col-lg-4 col-sm-6 aos-item" data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">
+                        <div class="icon-bx-wraper style-2 center m-b30">
+                            <div class="icon-content">
+                                <h4 class="title m-b0">RATHEESH P.G</h4>
+                                <p>SITE SUPERVISOR</p>
+                                <div class="dz-separator style-2 bg-primary"></div>
+                                <div class="detail">
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-map-marker-alt"></i>
+                                        <p>Thulasi, 1st Floor , Door No 55/2616 , KP Vallon Road Kadavanthra, Ernakulam, kochi - 682020</p>
+                                    </div>
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-mobile"></i>
+                                        <p>94964 62440</p>
+                                    </div>
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-phone"></i>
+                                        <p>0484 - 4619801</p>
+                                    </div>
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-envelope"></i>
+                                        <p><a href="mailto:ratheeshpgopalan@gmail.com">ratheeshpgopalan@gmail.com</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- 4. ARUN .U -->
+                    <div class="mt-3 col-lg-4 col-sm-6 aos-item" data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">
+                        <div class="icon-bx-wraper style-2 center m-b30">
+                            <div class="icon-content">
+                                <h4 class="title m-b0">ARUN .U</h4>
+                                <p>SITE SUPERVISOR</p>
+                                <div class="dz-separator style-2 bg-primary"></div>
+                                <div class="detail">
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-map-marker-alt"></i>
+                                        <p>Thulasi, 1st Floor , Door No 55/2616 , KP Vallon Road Kadavanthra, Ernakulam, kochi - 682020</p>
+                                    </div>
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-mobile"></i>
+                                        <p>81388 33607</p>
+                                    </div>
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-phone"></i>
+                                        <p>0484 - 4619801</p>
+                                    </div>
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-envelope"></i>
+                                        <p><a href="mailto:arun@valluvasserybuilders.com">arun@valluvasserybuilders.com</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- 5. PRAISON .R -->
+                    <div class="mt-3 col-lg-4 col-sm-6 aos-item" data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">
+                        <div class="icon-bx-wraper style-2 center m-b30">
+                            <div class="icon-content">
+                                <h4 class="title m-b0">PRAISON .R</h4>
+                                <p>SITE SUPERVISOR</p>
+                                <div class="dz-separator style-2 bg-primary"></div>
+                                <div class="detail">
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-map-marker-alt"></i>
+                                        <p>Thulasi, 1st Floor , Door No 55/2616 , KP Vallon Road Kadavanthra, Ernakulam, kochi - 682020</p>
+                                    </div>
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-mobile"></i>
+                                        <p>79029 87797</p>
+                                    </div>
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-phone"></i>
+                                        <p>0484 - 4619801</p>
+                                    </div>
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-envelope"></i>
+                                        <p><a href="mailto:praison99@gmail.com">praison99@gmail.com</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Continue this structure for each remaining person -->
+
+                    <!-- 6. NIHAL.P -->
+                    <div class="mt-3 col-lg-4 col-sm-6 aos-item" data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">
+                        <div class="icon-bx-wraper style-2 center m-b30">
+                            <div class="icon-content">
+                                <h4 class="title m-b0">NIHAL.P</h4>
+                                <p>SITE SUPERVISOR</p>
+                                <div class="dz-separator style-2 bg-primary"></div>
+                                <div class="detail">
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-map-marker-alt"></i>
+                                        <p>Thulasi, 1st Floor , Door No 55/2616 , KP Vallon Road Kadavanthra, Ernakulam, kochi - 682020</p>
+                                    </div>
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-mobile"></i>
+                                        <p>90617 91959</p>
+                                    </div>
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-phone"></i>
+                                        <p>0484 - 4619801</p>
+                                    </div>
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-envelope"></i>
+                                        <p><a href="mailto:nihalp577@gmail.com">nihalp577@gmail.com</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Repeat the above structure for each person, replacing the details accordingly -->
+
+                    <!-- 7. MUHAMMAD MAHIN.V.S -->
+                    <div class="mt-3 col-lg-4 col-sm-6 aos-item" data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">
+                        <div class="icon-bx-wraper style-2 center m-b30">
+                            <div class="icon-content">
+                                <h4 class="title m-b0">MUHAMMAD MAHIN.V.S</h4>
+                                <p>SITE SUPERVISOR</p>
+                                <div class="dz-separator style-2 bg-primary"></div>
+                                <div class="detail">
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-map-marker-alt"></i>
+                                        <p>Thulasi, 1st Floor , Door No 55/2616 , KP Vallon Road Kadavanthra, Ernakulam, kochi - 682020</p>
+                                    </div>
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-mobile"></i>
+                                        <p>73564 34039</p>
+                                    </div>
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-phone"></i>
+                                        <p>0484 - 4619801</p>
+                                    </div>
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-envelope"></i>
+                                        <p><a href="mailto:mahinvaliyaparambil@gmail.com">mahinvaliyaparambil@gmail.com</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="mt-3 col-lg-4 col-sm-6 aos-item" data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">
+                        <div class="icon-bx-wraper style-2 center m-b30">
+                            <div class="icon-content">
+                                <h4 class="title m-b0">AJITH THOMAS N.S</h4>
+                                <p>BUSINESS DEVELOPMENT EXECUTIVE</p>
+                                <div class="dz-separator style-2 bg-primary"></div>
+                                <div class="detail">
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-map-marker-alt"></i>
+                                        <p>Thulasi, 1st Floor , Door No 55/2616 , KP Vallon Road Kadavanthra, Ernakulam, kochi - 682020</p>
+                                    </div>
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-mobile"></i>
+                                        <p>88486 24231, 88913 50969</p>
+                                    </div>
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-phone"></i>
+                                        <p>0484 - 4619801</p>
+                                    </div>
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-envelope"></i>
+                                        <p><a href="mailto:ajzweb7@gmail.com">ajzweb7@gmail.com</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- 9. SHERLY JAMES -->
+                    <div class="mt-3 col-lg-4 col-sm-6 aos-item" data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">
+                        <div class="icon-bx-wraper style-2 center m-b30">
+                            <div class="icon-content">
+                                <h4 class="title m-b0">SHERLY JAMES</h4>
+                                <p>ACCOUNTS</p>
+                                <div class="dz-separator style-2 bg-primary"></div>
+                                <div class="detail">
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-map-marker-alt"></i>
+                                        <p>Thulasi, 1st Floor , Door No 55/2616 , KP Vallon Road Kadavanthra, Ernakulam, kochi - 682020</p>
+                                    </div>
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-mobile"></i>
+                                        <p>9745327813</p>
+                                    </div>
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-phone"></i>
+                                        <p>0484 - 4619801</p>
+                                    </div>
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-envelope"></i>
+                                        <p><a href="mailto:sherly@valluvasserybuilders.com">sherly@valluvasserybuilders.com</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <!-- 10. SWETHA SOMAN -->
+                    <div class="mt-3 col-lg-4 col-sm-6 aos-item" data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">
+                        <div class="icon-bx-wraper style-2 center m-b30">
+                            <div class="icon-content">
+                                <h4 class="title m-b0">SWETHA SOMAN</h4>
+                                <p>QUANTITY SURVEYOR</p>
+                                <div class="dz-separator style-2 bg-primary"></div>
+                                <div class="detail">
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-map-marker-alt"></i>
+                                        <p>Thulasi, 1st Floor , Door No 55/2616 , KP Vallon Road Kadavanthra, Ernakulam, kochi - 682020</p>
+                                    </div>
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-mobile"></i>
+                                        <p>70257 15613</p>
+                                    </div>
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-phone"></i>
+                                        <p>0484 - 4619801</p>
+                                    </div>
+                                    <div class="d-flex mb-2">
+                                        <i class="fas fa-envelope"></i>
+                                        <p><a href="mailto:swetha@valluvasserybuilders.com">swetha@valluvasserybuilders.com</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+
+                </div>
+            </div>
+        </section>
